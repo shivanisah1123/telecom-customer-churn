@@ -8,19 +8,19 @@ Using Python, along with libraries like Pandas, Seaborn, and Matplotlib, I explo
 
 ## 🛠 Tools and Technologies Used
 
-## Python:
+ Python:
  Data cleaning, manipulation, and analysis
 
-## Pandas:
+ Pandas:
  DataFrame operations for organizing and analyzing data
 
-## Seaborn and Matplotlib: 
+Seaborn and Matplotlib: 
   Creating insightful visualizations to identify trends
   
-## Numpy:
+ Numpy:
   Supporting numerical operations
 
-## Jupyter Notebook:
+ Jupyter Notebook:
   For interactive data exploration and analysis
 
 
@@ -99,3 +99,18 @@ The dataset consists of Total Columns: 21 xTotal Rows: 7043 , capturing various 
 ⦁	Contract & Payment: Contract type, PaymentMethod, MonthlyCharges
 
 ⦁	Outcome: Churn (Yes/No)
+
+## 👥 Contributor
+
+## Shivani Sah –[ LinkedIn Profile](https://www.linkedin.com/in/shivani-sah-306a10277/)
+## Data Analyst Enthusiast with skills in Python, SQL, Excel, and Power BI.
+
+
+
+## 📞 Contact
+
+For any questions or feedback, feel free to contact me via:
+
+Email: shivanisah888@gmail.com
+
+LinkedIn: Shivani Sah
